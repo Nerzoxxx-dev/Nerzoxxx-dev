@@ -6,7 +6,7 @@
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerzoxxx-dev&layout=compact)
 
 ### 📒 Mes projets :
-![typescript](./img/typescript.png)
+![typescript](./typescript.png)
 
 
 
